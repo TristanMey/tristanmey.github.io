@@ -1,0 +1,17 @@
+.time-line-container>div:last-child .education__time>.education__line {
+    display: none;
+}
+
+.center-icon{
+    text-align: center;
+    margin-top: 20px;
+}
+
+span{
+    color:#000000;
+}
+
+.onfVetement{
+    text-decoration: underline;
+    
+}
