@@ -23,8 +23,7 @@ où trois armes uniques sont proposées.<br>
 En cliquant sur le prix, les joueurs peuvent acquérir ces armes pour améliorer leur arsenal.<br>
 La sortie du magasin se fait en appuyant sur la touche 'Tab'.
 
-Si l'envie de revenir sur l'île se fait sentir, il suffit de réactiver 'T'.<br>
-Cependant, pour accéder à la prochaine zone, les joueurs doivent entrer dans le portail bleu au centre de l'île après avoir éliminé tous les monstres.
+pour accéder à la prochaine zone, les joueurs doivent entrer dans le portail bleu au centre de l'île après avoir éliminé tous les monstres.
 
 L'interface offre également la possibilité d'équiper des armes en utilisant la touche 'K'.<br>
 Après avoir triomphé du boss redoutable de la cinquième zone, les joueurs ont le choix de quitter le jeu ou de relancer une nouvelle partie.
