@@ -7,7 +7,7 @@ tags: ["Java","libGDX"]
 ---
 
 <video controls>
-  <source src="/pixelSwordVideo.mp4" type="video/mp4" />
+  <source src="/videoPixelSword.mp4" type="video/mp4" />
 </video>
 
 Pour un projet j'ai élaboré un jeu rogue-like en 2D avec l'utilisation de libGDX, <br>
@@ -18,10 +18,10 @@ Pour éliminer les redoutables monstres, les joueurs doivent les cibler et les a
 
 La recherche de trésors s'ajoute à l'aventure,<br>
 les joueurs pouvant ouvrir des coffres en se positionnant à côté et en appuyant sur la touche 'E'. <br>
-Une fois tous les monstres terrassés, les joueurs ont l'opportunité de se rendre dans un hub en appuyant sur 'T'.<br>
-Ce hub abrite un marché où trois armes uniques sont proposées.<br>
+Une fois tous les monstres terrassés, les joueurs ont l'opportunité d'acheter en appuyant sur 'T'.<br>
+où trois armes uniques sont proposées.<br>
 En cliquant sur le prix, les joueurs peuvent acquérir ces armes pour améliorer leur arsenal.<br>
-La sortie du magasin se fait en appuyant sur la touche 'Tab', une opération qui peut prendre un court laps de temps.
+La sortie du magasin se fait en appuyant sur la touche 'Tab'.
 
 Si l'envie de revenir sur l'île se fait sentir, il suffit de réactiver 'T'.<br>
 Cependant, pour accéder à la prochaine zone, les joueurs doivent entrer dans le portail bleu au centre de l'île après avoir éliminé tous les monstres.

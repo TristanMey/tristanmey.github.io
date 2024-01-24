@@ -3,3 +3,5 @@
 
 export const SITE_TITLE = 'Tristan MEY';
 export const SITE_DESCRIPTION = 'Bienvenu sur mon portfolio';
+export const GENERATE_SLUG_FROM_TITLE = true
+export const TRANSITION_API = true
