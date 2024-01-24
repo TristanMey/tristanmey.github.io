@@ -17,8 +17,8 @@ Pour éliminer les redoutables monstres, les joueurs doivent les cibler et les a
 ( QWERTY ) ou aux flèches directionnelles.
 
 La recherche de trésors s'ajoute à l'aventure,<br>
-les joueurs pouvant ouvrir des coffres en se positionnant à côté et en appuyant sur la touche 'E'. <br>
-Une fois tous les monstres terrassés, les joueurs ont l'opportunité d'acheter en appuyant sur 'T'.<br>
+les joueurs peuvent ouvrir des coffres en se positionnant à côté et en appuyant sur 'E'. <br>
+Une fois tous les monstres tués, les joueurs ont l'opportunité d'acheter en appuyant sur 'T'.<br>
 où trois armes uniques sont proposées.<br>
 En cliquant sur le prix, les joueurs peuvent acquérir ces armes pour améliorer leur arsenal.<br>
 La sortie du magasin se fait en appuyant sur la touche 'Tab'.
